@@ -20,6 +20,7 @@ namespace Vokabeltrainer
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
+	/// Very nice application
     public partial class MainWindow : Window
     {
         List<Vokabel> query, register = new List<Vokabel>();
